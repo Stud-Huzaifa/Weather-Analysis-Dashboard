@@ -1,5 +1,6 @@
 Weather Analysis Dashboard 🌦️
 Overview
+
 The Weather Analysis Dashboard is a Python-based project designed to explore and visualize weather trends, seasonal variations, and anomalies using interactive and static visualizations. The dashboard allows users to gain insights into weather patterns, making it useful for data enthusiasts, meteorologists, and researchers.
 
 Features
